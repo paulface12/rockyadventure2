@@ -1,0 +1,33 @@
+NOTES
+
+DONE menu.js line 95 "a box of popsicles" need to make dynamic with gifts
+DONE Controls Menu at beginning - Enter = Pause
+DONE - PAUSE MENU - select continue or quit rather than keys
+DONE - Add glimmer to goal
+DONE When press Q on select difficulty, then cannot press enter
+DONE - Money needs to permanently go away if collected
+DONE - Quit on pause is not working - may have to destory curr_dialog and start fresh
+moving blocks in attic persist to end (don't destroy even if wall is destroyed
+debug/cheat mode on/off - when on, information and time across bottom of screen
+link to phaser.min.js
+DONE Create premenu state that simply says Press Enter to Begin - starts music
+Music pauses on congratulation screen
+
+prize images
+DONE - reduce width of stuffed animal
+DONE - reduce width of turkey image
+DONE - reduce size of blanket slightly
+
+ADD SOUNDS
+- Music for each level
+- sounds for
+	DONE - shoot missile
+	DONE - explosion (any)
+	DONE - Rocky Explosion
+	DONE - Sad Trombone when crash
+	DONE - Pause chime
+	DONE - Unpause chime
+	DONE - Dollar Collected (cha ching)
+	DONE - Goal Achieved
+	DONE - Dramatic music for ending
+
